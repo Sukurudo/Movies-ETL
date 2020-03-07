@@ -4,7 +4,9 @@ __pycache__/
 *$py.class
 
 # Data/
+PDF/
 .DS_Store
+config.py
 
 # C extensions
 *.so
